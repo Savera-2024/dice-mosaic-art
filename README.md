@@ -33,19 +33,33 @@ The app analyzes the brightness or color intensity of each pixel segment in the 
 
 ### 🔧 Setup Instructions
 
-1. Open the project in **PyCharm**.
-2. Make sure the following files are in the same folder:
-   - `Dice Mosaic Art.py`
-   - Dice face images (`dice1.png`, `dice2.png`, ..., `dice6.png`)
-3. Open the **Terminal** in PyCharm and install the required libraries:
+1. Open the project in **PyCharm**
+
+2. Make sure the following files are in the **same folder**:
+
+   * `Dice Mosaic Art.py`
+   * Dice face images (`dice1.png`, `dice2.png`, ..., `dice6.png`)
+
+3. Open the **Terminal** in PyCharm
+
+4. Install the required libraries by running:
+
    ```bash
-   pip install streamlit pillow numpy
+   pip install streamlit
+   pip install pillow
+   pip install numpy
+   ```
 
-   Run the app:
+5. Run the app:
 
-Bash
-streamlit run "Dice Mosaic Art.py"
-The app will automatically open in your browser at: http://localhost:8501
+   ```bash
+   streamlit run "Dice Mosaic Art.py"
+   ```
+
+6. The app will open in your browser at:
+   👉 `http://localhost:8501`
+
+---
 
 ## 👨‍💻 Developed By
 
