@@ -47,11 +47,14 @@ Bash
 streamlit run "Dice Mosaic Art.py"
 The app will automatically open in your browser at: http://localhost:8501
 
-##👨‍💻 Developed By
+## 👨‍💻 Developed By
 
 Zumar Sayyam
+
 Haleema Sadia
+
 Ayesha Javed
+
 Savera Zainab
 
 "Blending code and creativity — one dice at a time." 🎲✨
