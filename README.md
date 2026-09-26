@@ -48,6 +48,7 @@ streamlit run "Dice Mosaic Art.py"
 The app will automatically open in your browser at: http://localhost:8501
 
 ##👨‍💻 Developed By
+
 Zumar Sayyam
 Haleema Sadia
 Ayesha Javed
